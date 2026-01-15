@@ -1,24 +1,21 @@
-# Welcome to Nuxt Content Starter
+---
+title: "はじめに：なぜシステムをアップデートするのか"
+description: "WordPressからNuxt Contentへの移行がもたらす未来について"
+---
 
-This is the main page displaying Markdown located at [content/index.md](https://github.com/nuxt/starter/blob/content/content/index.md).
+# WordPressからNuxt Contentへ
 
-Move to [about](/about) page.
+この移行は、単なるツールの変更ではありません。**「より速く、より安全で、運用ストレスのないサイト」** を作るための前向きなアップデートです。
 
-## Manage your Contents
+これまでWordPressで感じていた以下のような悩みから解放されることを目的としています：
+- 「管理画面やページの読み込みが遅い」
+- 「セキュリティアップデートや攻撃が怖い」
+- 「設定を一つ変えただけでサイトが壊れないか不安」
 
-Create new pages or modify the existing ones in `content/` directory.
+エンジニアにとっても運用チームにとっても、よりクリエイティブな作業に集中できる環境を目指しています。
 
-## Query & Render Pages
-
-You can find an example of querying contents and rendering them in a [catch-all page](https://github.com/nuxt/starter/blob/content/app/pages/%5B...slug%5D.vue)
-
-## Integrate Vue Component
-
-::alert{color="green"}
-The current [alert](https://github.com/nuxt/starter/blob/content/app/components/Alert.vue) and the [counter](https://github.com/nuxt/starter/blob/content/app/components/Counter.vue) below are `Vue` components integrated into the Markdown.
-::
-
-::counter
-::
-
-Checkout out the [documentation](https://content.nuxt.com/docs/getting-started) to learn more.
+## 関連ページ
+- [Nuxt Contentとは？](/about)
+- [WordPress vs Nuxt Content 比較](/comparison)
+- [運用担当者向けQ&A](/faq)
+- [新しい執筆フローのガイド](/guide)
