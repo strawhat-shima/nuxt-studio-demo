@@ -3,6 +3,21 @@ export default defineNuxtConfig({
   app: {
     baseURL: '/nuxt-studio-demo/', 
   },
+  nitro: {
+    prerender: {
+      crawlLinks: true,
+      routes: ['/sitemap.xml', '/404.html'],
+      ignore: ['/admin']
+    },
+    output: {
+      publicDir: './dist'
+    }
+  },
+  router: {
+    options: {
+      strict: false,
+    }
+  },
   modules: [
     '@nuxt/content',
     '@nuxt/ui',
