@@ -15,10 +15,10 @@ description: "WordPressからNuxt Contentへの移行がもたらす未来につ
 エンジニアにとっても運用チームにとっても、よりクリエイティブな作業に集中できる環境を目指しています。
 
 ## 関連ページ
-- [Nuxt Contentとは？](/nuxt-studio-demo/about/)
-- [WordPress vs Nuxt Content 比較](/nuxt-studio-demo/comparison/)
-- [運用担当者向けQ&A](/nuxt-studio-demo/faq/)
-- [新しい執筆フローのガイド](/nuxt-studio-demo/guide/)
-- [VSCodeで作業する](/nuxt-studio-demo/step1/)
-- [gitベースCMS？？](/nuxt-studio-demo/gitbase/)
-- [ノーコードの甘い罠](/nuxt-studio-demo/sweettrap/)
+- [Nuxt Contentとは？](/about/)
+- [WordPress vs Nuxt Content 比較](/comparison/)
+- [運用担当者向けQ&A](/faq/)
+- [新しい執筆フローのガイド](/guide/)
+- [VSCodeで作業する](/step1/)
+- [gitベースCMS？？](/gitbase/)
+- [ノーコードの甘い罠](/sweettrap/)
