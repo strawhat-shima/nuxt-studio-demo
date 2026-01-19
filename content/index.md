@@ -19,5 +19,6 @@ description: "WordPressからNuxt Contentへの移行がもたらす未来につ
 - [WordPress vs Nuxt Content 比較](/comparison)
 - [運用担当者向けQ&A](/faq)
 - [新しい執筆フローのガイド](/guide)
+- [VSCodeで作業する](/step1)
 - [gitベースCMS？？](/gitbase)
 - [ノーコードの甘い罠](/sweettrap)

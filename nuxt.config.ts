@@ -14,7 +14,7 @@ export default defineNuxtConfig({
   nitro: {
     prerender: {
       crawlLinks: true, // サイト内のリンクをクロールして静的ファイルを生成
-      routes: ['/']     // 起点となるルート
+      routes: ['/', '/step1', '/about', '/sweettrap']     // 生成したいページを明示的に指定
     }
   },
 
