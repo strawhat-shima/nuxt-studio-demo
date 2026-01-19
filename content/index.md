@@ -20,3 +20,4 @@ description: "WordPressからNuxt Contentへの移行がもたらす未来につ
 - [運用担当者向けQ&A](/faq)
 - [新しい執筆フローのガイド](/guide)
 - [gitベースCMS？？](/gitbase)
+- [ノーコードの甘い罠](/sweettrap)
