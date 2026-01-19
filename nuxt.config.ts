@@ -18,6 +18,10 @@ export default defineNuxtConfig({
     }
   },
 
+  experimental: {
+    payloadExtraction: false
+  },
+
   devtools: { enabled: true },
   compatibilityDate: '2024-04-03',
 })
